@@ -1,0 +1,25 @@
+body {
+   background-color: #d69c1d;
+   background-position: center;
+   background-position: top;
+   background-size: 1920px;
+  };
+
+span b i h1 {
+   color: yellow;
+   border: 2px solid yellow;
+   border-radius: 7%;
+ }
+
+table tr td {
+   text-align: center;
+ }
+ 
+table {
+   border: 10px solid yellow;
+   border-radius: 7%;
+   padding: 1px;
+   margin: 100px;
+ }
+ 
+
